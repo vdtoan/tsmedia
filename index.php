@@ -12,6 +12,7 @@
  * Khởi tạo và gán giá trị tương ứng với đề bài 
  */
 $nhan_vien = 3;
+
 /*
  * Bài tập 2:
  * Giả sử, nếu sau 1 năm, công ty phá sản và giải thể thì tất cả nhân sự đều bị sa thải,
