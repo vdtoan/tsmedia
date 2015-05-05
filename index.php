@@ -12,6 +12,14 @@
  * Khởi tạo và gán giá trị tương ứng với đề bài 
  */
 $nhan_vien = 3;
+$ten_cong_ty = 'mnssofts';
+$giam_doc = 1;
+$von = 10000;
+$nam = 1 ;
+$n_vien = 12;
+$nam = 2;
+$n_vien = 30;
+
 
 /*
  * Bài tập 2:
